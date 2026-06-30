@@ -109,7 +109,7 @@ Generated sample outputs are committed for review:
 
 The required one-page technical design PDF is included at:
 
-- `output/pdf/MuskanSarraf_muskan@example.com_Eightfold.pdf`
+- `output/pdf/MuskanSarraf_Eightfold_Design_Final_v3.pdf`
 
 ## Project Structure
 
