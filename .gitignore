@@ -1,0 +1,22 @@
+(venv) PS E:\Candidate-Data-Transformer> git status
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 1 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+nothing to commit, working tree clean
+(venv) PS E:\Candidate-Data-Transformer> git pull origin main --rebase
+From https://github.com/MuskanSarraf/Candidate-Data-Transformer
+ * branch            main       -> FETCH_HEAD
+Successfully rebased and updated refs/heads/main.
+(venv) PS E:\Candidate-Data-Transformer> git push origin main
+Enumerating objects: 14, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (10/10), 3.21 KiB | 547.00 KiB/s, done.
+Total 10 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/MuskanSarraf/Candidate-Data-Transformer.git
+   b24cfa0..4a17fd2  main -> main
+(venv) PS E:\Candidate-Data-Transformer> 
