@@ -1,0 +1,29 @@
+[
+  {
+    "username": "muskansarraf",
+    "name": "Muskan S.",
+    "email": "muskan@example.com",
+    "bio": "Backend Developer | Python and FastAPI",
+    "location": "Kolkata, India",
+    "github_url": "https://github.com/muskansarraf",
+    "languages": ["Python", "FastAPI", "Docker", "Git"]
+  },
+  {
+    "username": "rahulsharma",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@gmail.com",
+    "bio": "Backend engineer focused on APIs",
+    "location": "Bengaluru, India",
+    "github_url": "https://github.com/rahulsharma",
+    "languages": ["Python", "Flask", "PostgreSQL"]
+  },
+  {
+    "username": "rohankapoor",
+    "name": "Rohan Kapoor",
+    "email": "rohan@gmail.com",
+    "bio": "Machine learning engineer",
+    "location": "Delhi, India",
+    "github_url": "https://github.com/rohankapoor",
+    "languages": ["Python", "TensorFlow", "Pandas"]
+  }
+]

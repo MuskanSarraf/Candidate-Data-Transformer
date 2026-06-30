@@ -1,0 +1,3 @@
+candidate_id,name,email,phone,current_company,title,city,region,country,years_experience,current_start,skills
+CSV001,Muskan Sarraf,muskan@example.com,+91 98765 43210,Eightfold Demo Labs,Software Engineer,Kolkata,West Bengal,India,2,2024-01,"Python, FastAPI, SQL"
+CSV002,Priya Verma,priya.verma@gmail.com,9988776655,TCS,Java Developer,Hyderabad,Telangana,IN,3,2023-05,"Java, SpringBoot, MySQL"

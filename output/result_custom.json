@@ -1,0 +1,55 @@
+[
+  {
+    "candidate_name": "Muskan Sarraf",
+    "primary_email": "muskan@example.com",
+    "candidate_phone": "+919876543210",
+    "github": "https://github.com/muskansarraf",
+    "top_skills": [
+      "Django",
+      "Docker",
+      "FastAPI",
+      "Git",
+      "Python",
+      "SQL"
+    ],
+    "overall_confidence": 0.99
+  },
+  {
+    "candidate_name": "Rahul Sharma",
+    "primary_email": "rahul.sharma@gmail.com",
+    "candidate_phone": "+919876501234",
+    "github": "https://github.com/rahulsharma",
+    "top_skills": [
+      "Docker",
+      "Flask",
+      "PostgreSQL",
+      "Python"
+    ],
+    "overall_confidence": 0.96
+  },
+  {
+    "candidate_name": "Priya Verma",
+    "primary_email": "priya.verma@gmail.com",
+    "candidate_phone": "+919988776655",
+    "github": null,
+    "top_skills": [
+      "Java",
+      "MySQL",
+      "Redis",
+      "Spring Boot"
+    ],
+    "overall_confidence": 0.96
+  },
+  {
+    "candidate_name": "Rohan Kapoor",
+    "primary_email": "rohan@gmail.com",
+    "candidate_phone": null,
+    "github": "https://github.com/rohankapoor",
+    "top_skills": [
+      "Pandas",
+      "Python",
+      "TensorFlow"
+    ],
+    "overall_confidence": 0.68
+  }
+]

@@ -1,92 +1,35 @@
 [
-    {
-        "id": "ATS001",
-        "candidateName": "Muskan Sarraf",
-        "primaryEmail": "muskan@example.com",
-        "mobileNumber": "+91-9876543210",
-        "currentCompany": "ABC Technologies",
-        "jobTitle": "Software Engineering Intern",
-        "city": "Kolkata",
-        "countryCode": "IN",
-        "skills": [
-            "Python",
-            "Java",
-            "SQL"
-        ]
-    },
-    {
-        "id": "ATS002",
-        "candidateName": "Rahul Sharma",
-        "primaryEmail": "rahul.sharma@gmail.com",
-        "mobileNumber": "+91-9876501234",
-        "currentCompany": "Infosys",
-        "jobTitle": "Backend Developer",
-        "city": "Bengaluru",
-        "countryCode": "IN",
-        "skills": [
-            "Python",
-            "Django",
-            "PostgreSQL"
-        ]
-    },
-    {
-        "id": "ATS003",
-        "candidateName": "Priya Verma",
-        "primaryEmail": "priya.verma@gmail.com",
-        "mobileNumber": "+91-9988776655",
-        "currentCompany": "TCS",
-        "jobTitle": "Software Engineer",
-        "city": "Hyderabad",
-        "countryCode": "IN",
-        "skills": [
-            "Java",
-            "Spring Boot",
-            "MySQL"
-        ]
-    },
-    {
-        "id": "ATS004",
-        "candidateName": "Arjun Mehta",
-        "primaryEmail": "arjun.mehta@gmail.com",
-        "mobileNumber": "+91-9090909090",
-        "currentCompany": "Capgemini",
-        "jobTitle": "Full Stack Developer",
-        "city": "Pune",
-        "countryCode": "IN",
-        "skills": [
-            "React",
-            "Node.js",
-            "MongoDB"
-        ]
-    },
-    {
-        "id": "ATS005",
-        "candidateName": "Sneha Gupta",
-        "primaryEmail": "sneha.gupta@gmail.com",
-        "mobileNumber": "+91-9123456789",
-        "currentCompany": "Wipro",
-        "jobTitle": "Data Analyst",
-        "city": "Noida",
-        "countryCode": "IN",
-        "skills": [
-            "Python",
-            "Pandas",
-            "Power BI"
-        ]
-    },
-    {
-        "id": "ATS006",
-        "candidateName": "Aman Singh",
-        "primaryEmail": "aman.singh@gmail.com",
-        "mobileNumber": "+91-9871112233",
-        "currentCompany": "Accenture",
-        "jobTitle": "Cloud Engineer",
-        "city": "Chennai",
-        "countryCode": "IN",
-        "skills": [
-            "AWS",
-            "Docker",
-            "Kubernetes"
-        ]
-    }
+  {
+    "id": "ATS001",
+    "candidateName": "Muskan Sarraf",
+    "primaryEmail": "MUSKAN@example.com",
+    "mobileNumber": "9876543210",
+    "currentCompany": "Eightfold Demo Labs",
+    "jobTitle": "Backend Developer",
+    "city": "Kolkata",
+    "countryCode": "IN",
+    "yearsExperience": "2",
+    "currentStart": "2024-01",
+    "skills": ["py", "SQL", "Django"]
+  },
+  {
+    "id": "ATS002",
+    "candidateName": "Rahul Sharma",
+    "primaryEmail": "rahul.sharma@gmail.com",
+    "mobileNumber": "+91-9876501234",
+    "currentCompany": "Infosys",
+    "jobTitle": "Backend Developer",
+    "city": "Bengaluru",
+    "countryCode": "IN",
+    "yearsExperience": "4",
+    "currentStart": "2022/06",
+    "skills": ["Python", "Postgres", "Docker"]
+  },
+  {
+    "id": "ATS_BAD",
+    "candidateName": "",
+    "primaryEmail": "not-an-email",
+    "mobileNumber": "abc",
+    "skills": ["", null]
+  }
 ]
